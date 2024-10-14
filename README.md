@@ -20,9 +20,12 @@ Assignment 6: Time Series Analysis.
 
 Final Project: Malaria Detection
 Objective: Develop a deep learning model to classify images as Parasitized or Uninfected based on Malaria cell image data.
+
 Dataset: The dataset consists of thousands of images labeled as either Parasitized or Uninfected.
+
 Approach:
 Data preprocessing and augmentation
 Model selection and training using convolutional neural networks (CNNs)
 Evaluation and performance metrics
+
 Tools: TensorFlow, Keras, and Python
